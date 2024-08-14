@@ -1,0 +1,33 @@
+{
+  "originHash" : "70514a2e37eb1194662ccc10716c4e5d18e31b2d5dc8da2499cc8f40a608e949",
+  "pins" : [
+    {
+      "identity" : "abseil-cpp-swiftpm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bourdakos1/abseil-cpp-SwiftPM.git",
+      "state" : {
+        "branch" : "cxx17",
+        "revision" : "a7042563d167160f56e614cd1e2a32616510d9ec"
+      }
+    },
+    {
+      "identity" : "boringssl-swiftpm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/firebase/boringssl-SwiftPM.git",
+      "state" : {
+        "revision" : "734a8247442fde37df4364c21f6a0085b6a36728",
+        "version" : "0.7.2"
+      }
+    },
+    {
+      "identity" : "nearby",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/google/nearby",
+      "state" : {
+        "branch" : "main",
+        "revision" : "af3f8e488ef0e2dacab5f8e952e54259b91d0541"
+      }
+    }
+  ],
+  "version" : 3
+}
